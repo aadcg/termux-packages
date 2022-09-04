@@ -1,6 +1,6 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/sionescu/libfixposix"
 TERMUX_PKG_DESCRIPTION="Thin wrapper over POSIX syscalls "
-TERMUX_PKG_LICENSE="LICENSE-Boost-1.0"
+TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_LICENSE_FILE="LICENCE"
 TERMUX_PKG_MAINTAINER="André A. Gomes <andre@atlas.engineer>"
 TERMUX_PKG_VERSION=0.4.3
